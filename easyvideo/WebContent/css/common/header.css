@@ -1,0 +1,36 @@
+.brand{
+    width: 300px;
+    height: 42px;
+    position: relative;
+    bottom: 13px;
+}
+.form-control{
+    border-radius: 17px;
+}
+.navbar-right button {
+	background-color: transparent;
+	border: 0;
+	color: black;
+}
+
+.dropdown {
+	float: left;
+	position: relative;
+	left: 30%;
+	top: 5px;
+	position: relative;
+}
+
+.upload-video {
+	float: left;
+	position: relative;
+	top: 3px;
+	left: 25%;
+}
+
+.btn-primary {
+	background-color: transparent;
+	border: 0px;
+	color: black;
+	font-size: large;
+}

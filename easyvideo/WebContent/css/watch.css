@@ -1,0 +1,49 @@
+.video-info {
+	margin: 5px 0;
+}
+
+.btn-default {
+	border: 0px;
+}
+
+.div-info {
+	margin-top: 5px;
+}
+
+.comm-info {
+	margin-top: 10px;
+}
+
+.div-comm {
+	border: solid 1px gainsboro;
+}
+
+.send-info {
+	border-top: solid 1px gainsboro;
+	border-right: solid 1px gainsboro;
+	border-bottom: solid 1px gainsboro;
+}
+
+.user-pic {
+	position: relative;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	overflow: hidden;
+	border-radius: 50%;
+}
+
+.icons-img {
+	width: 100%;
+	height: 100%;
+}
+
+.reply {
+	color: chocolate;
+}
+
+.reply1 {
+	
+	color: blueviolet;
+}
